@@ -1,7 +1,7 @@
 <?php
 
 
-class Fan_skt
+class Fan
 {
     CONST SLOW = 1;
     CONST MEDIUM = 2;
